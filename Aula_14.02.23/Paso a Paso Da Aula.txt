@@ -1,0 +1,36 @@
+	- Instalar Java JDK (Java Development Kit)
+
+1 - Abrir CMD
+
+2 - Criar Pasta Usando "Mkdir" (Nome Da Pasta)
+
+3 - Criar Arquivo Usando "notepad" (Nome Do Arquivo + Extenção)
+
+4 - Fazer o Codigo Da Aula
+	
+	public class HelloWorld {
+
+	public static void main(String[] args) {
+	
+		System.out.println("Ola, Mundo");
+	
+	}
+
+}
+
+5 - Compilar Arquivo Usando "Javac" (Nome Do Arquivo + Extenção)
+
+6 - Executar Arquivo Usando "java" (nome Do Arquivo)
+
+
+	- Como Resolver problema da aula
+
+1 - abrir C:
+
+2 - Abrir pasta Arquivo De Programas
+
+3 - Abrir pasta java
+
+4 - abrir pasta jdk
+
+5 - copiar endereço da pasta e adicoinar \java no final
